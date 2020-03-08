@@ -1,0 +1,44 @@
+/*-- TURN OFF WAYPOINTS/ANIMATION --*
+ .animated, .os-animation {
+	-webkit-animation: none!important;
+	-moz-animation: none!important;
+	-o-animation: none!important;
+	animation: none!important;
+	opacity: 1!important;
+	-webkit-animation-delay: none !important;
+	-moz-animation-delay: none !important;
+	animation-delay: none !important;
+	}
+
+
+
+/*---TURN OFF WAYPOINTS/ANIMATION ON MOBILE-----------*/
+@media (max-width: 767px) {
+   .animated, .os-animation {
+      -webkit-animation: none!important;
+      -moz-animation: none!important;
+      -o-animation: none!important;
+      animation: none!important;
+      opacity: 1!important;
+      -webkit-animation-delay: none!important;
+      -moz-animation-delay: none!important;
+      animation-delay: none!important;
+   }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
